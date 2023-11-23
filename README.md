@@ -1,3 +1,3 @@
-# Tic Tac Toe Game
+# My first website (not responsive)
 
-Result in this link https://tic-tac-toe-rizxh.netlify.app/
+Click this link for result https://my-website-rico.netlify.app/
